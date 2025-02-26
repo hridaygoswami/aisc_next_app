@@ -118,10 +118,10 @@ export default function PoliciesPage() {
                     AISC will gather more extensive information than stated above in the following circumstances:
                   </p>
                   <ul className="mt-4 list-disc pl-5 space-y-2 text-lg text-gray-700">
-                    <li>Unauthorised attempts to access files other than those published on AISC's website</li>
-                    <li>Unauthorised tampering or interference with files published on AISC's website</li>
-                    <li>Unauthorised attempts by other websites to index the contents of AISC's website</li>
-                    <li>Attempts to intercept messages of other AISC's website users</li>
+                    <li>Unauthorised attempts to access files other than those published on AISC&apos;s website</li>
+                    <li>Unauthorised tampering or interference with files published on AISC&apos;s website</li>
+                    <li>Unauthorised attempts by other websites to index the contents of AISC&apos;s website</li>
+                    <li>Attempts to intercept messages of other AISC&apos;s website users</li>
                     <li>
                       Communications which are defamatory, abusive, vilify individuals or groups or give rise to a
                       suspicion that an offence is being committed
@@ -370,10 +370,10 @@ export default function PoliciesPage() {
                   </p>
                   <p className="mt-4 text-lg text-gray-700">You must not post any comment that:</p>
                   <ul className="mt-4 list-disc pl-5 space-y-2 text-lg text-gray-700">
-                    <li>Is inflammatory (commonly referred to as 'trolling')</li>
+                    <li>Is inflammatory (commonly referred to as &apos;trolling&apos;)</li>
                     <li>Is xenophobic, racist, abusive, harassing or hateful</li>
                     <li>
-                      Is false, defamatory, inaccurate, threatening, invasive of a person's privacy, or constitutes
+                      Is false, defamatory, inaccurate, threatening, invasive of a person&apos;s privacy, or constitutes
                       personal abuse directed at other users
                     </li>
                     <li>
@@ -382,9 +382,9 @@ export default function PoliciesPage() {
                     </li>
                     <li>
                       Constitutes commercial advertising, the promotion of gambling or the promotion of your own site
-                      (commonly referred to as 'spamming')
+                      (commonly referred to as &apos;spamming&apos;)
                     </li>
-                    <li>Infringes someone else's copyright, or</li>
+                    <li>Infringes someone else&apos;s copyright, or</li>
                     <li>Violates any Australian law</li>
                   </ul>
                 </section>

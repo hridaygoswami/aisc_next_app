@@ -34,7 +34,7 @@ export default function CareerPage() {
           </p>
           <p className="text-lg text-gray-700">
             AISC is a Proposed new Higher Education Institute. AISC is dedicated to academic ideals of education,
-            research and community service in the field of health. AISC's mission is to provide innovative and
+            research and community service in the field of health. AISC&apos;s mission is to provide innovative and
             transformative cost-effective educational opportunities for individual students at undergraduate graduate
             level, including but not limited to formal award courses, professional development courses, open learning
             courses and seminars, conferences, workshops and any other course that is deemed appropriate; to accelerate
@@ -54,7 +54,7 @@ export default function CareerPage() {
             AISC policies, procedures and guidelines. Accounts Officer is also responsible for maintaining AISC
             accounts, assisting in the preparation of budgets, managing records and receipts. Being a key point of
             contact for other AISC departments on financial and accounting matters. Accounts Officer supports the
-            Director of Finance and executives with student's financial matters when required.
+            Director of Finance and executives with student&apos;s financial matters when required.
           </p>
 
           <h2 className="text-2xl font-medium text-[#2a9d8f]">REPORTING RELATIONSHIPS</h2>
@@ -76,7 +76,7 @@ export default function CareerPage() {
             </li>
             <li>Undertaking the reconciliation of international student deposits;</li>
             <li>
-              Ensuring consistent compliance with applicable government requirements and the institution's financial
+              Ensuring consistent compliance with applicable government requirements and the institution&apos;s financial
               frameworks and policies;
             </li>
             <li>Assisting in reporting, data review and administration;</li>
@@ -91,7 +91,7 @@ export default function CareerPage() {
             commensurate with qualifications, experience, and past performance of the candidate.
           </p>
           <ul className="list-disc pl-6 space-y-2 text-lg text-gray-700">
-            <li>Bachelor's degree in accounting and 3+ years of relevant experience;</li>
+            <li>Bachelor&apos;s degree in accounting and 3+ years of relevant experience;</li>
             <li>Experience in student life cycle in the higher education or related sector;</li>
             <li>High-level computer skills with financial accounting systems including Excel.</li>
             <li>High-level computer skills with experience in accounting systems such as Xero;</li>
@@ -104,7 +104,7 @@ export default function CareerPage() {
             <li>High-level computer skills with experience in accounting systems such as Xero;</li>
             <li>
               Demonstrated commitment to cultural diversity and a working knowledge of equity and WHS principles in the
-              workplace and commitment to AISC's values.
+              workplace and commitment to AISC&apos;s values.
             </li>
           </ul>
 

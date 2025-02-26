@@ -197,7 +197,7 @@ export default function AdmissionPage() {
                   </p>
                   <p>
                     The lecturer will provide any additional learning material where gaps are identified in either the
-                    participant's underpinning knowledge or the learning resources.
+                    participant&apos;s underpinning knowledge or the learning resources.
                   </p>
                 </div>
               </ExpandableSection>

@@ -102,9 +102,9 @@ export default function AboutPage() {
               careers. At AISC we provide quality education from a new perspective.
             </p>
             <p className="text-gray-700 text-left">
-              We believe in "today's students are tomorrow's future", accordingly we aim to be able to firstly educate
+              We believe in &quot;today&apos;s students are tomorrow&apos;s future&quot;, accordingly we aim to be able to firstly educate
               our students for the choice of career, then prepare them for the challenges and obstacles that are
-              involved in today's workplace and culture and furthermore we create an entrance for the particular student
+              involved in today&apos;s workplace and culture and furthermore we create an entrance for the particular student
               in their field of study.
             </p>
             <p className="text-gray-700 text-left">
@@ -148,7 +148,7 @@ export default function AboutPage() {
                 {isChairExpanded && (
                   <div className="space-y-6 animate-in fade-in-50 duration-500">
                     <p className="text-gray-700 text-left">
-                      Our Strategic Plan says that "we place students at the front and centre of everything we do" and
+                      Our Strategic Plan says that &quot;we place students at the front and centre of everything we do&quot; and
                       this applies not only to the support you will receive but also to the opportunities that you will
                       be offered. Our programs have strong industry input so as to create contemporary, relevant
                       programs with recognised pathways to employment.
@@ -215,7 +215,7 @@ export default function AboutPage() {
                     </p>
                     <p className="text-gray-700 text-left">
                       Serving large number of students in the country, AISC has ambitious plan to become a key player in
-                      the Community education space and intends to continue playing an important role in Australia's
+                      the Community education space and intends to continue playing an important role in Australia&apos;s
                       ever-growing community and human services education industry.
                     </p>
                     <p className="text-gray-700 text-left">

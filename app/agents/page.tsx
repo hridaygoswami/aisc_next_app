@@ -26,7 +26,6 @@ const ExpandableSection: React.FC<ExpandableSectionProps> = ({ title, children, 
 }
 
 export default function AgentsPage() {
-  const [isExpanded, setIsExpanded] = useState(false)
 
   return (
     <div className="min-h-screen bg-white">
@@ -77,7 +76,7 @@ export default function AgentsPage() {
                 <section>
                   <h3 className="mb-4 text-2xl font-light text-[#2a9d8f]">Becoming an AISC Agent</h3>
                   <p className="text-lg text-gray-700">
-                    If you're interested in becoming an authorized agent for AISC, please contact our International
+                    If you&apos;re interested in becoming an authorized agent for AISC, please contact our International
                     Office for more information on our agent application process.
                   </p>
                 </section>

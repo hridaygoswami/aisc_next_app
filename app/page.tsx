@@ -56,7 +56,7 @@ export default function Home() {
               environment.
             </p>
             <p className="text-gray-700 text-left">
-              AISC is established for the specific purposes of delivery of the Institute's Bachelor and Master
+              AISC is established for the specific purposes of delivery of the Institute&apos;s Bachelor and Master
               qualifications as Institute of Higher Education in the field of community services, management and
               business. Our vision is to make our students feel part of our friendly, relaxed and supportive community.
             </p>
@@ -154,7 +154,7 @@ export default function Home() {
             <ExpandableSection title="OUR MOTTO & TAGLINE">
               <p className="font-medium text-left">{"Explore ideas with learning."}</p>
               <p className="mt-4 text-left">
-                AISC believes that the phrase "Explore ideas with learning" emphasizes the dynamic relationship between
+                AISC believes that the phrase &quot;Explore ideas with learning&quot; emphasizes the dynamic relationship between
                 acquiring knowledge and developing new concepts or perspectives. It suggests an active process where
                 learning is not just about absorbing information but also about, Curiosity and Inquiry, Application of
                 Knowledge, Continuous Growth and Collaboration. In essence, it highlights how learning fuels creativity
