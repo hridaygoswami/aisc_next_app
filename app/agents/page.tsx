@@ -1,8 +1,6 @@
 "use client"
 
 import type React from "react"
-
-import { useState } from "react"
 import Image from "next/image"
 import { SiteFooter } from "@/components/site-footer"
 import { MainNav } from "@/components/main-nav"
