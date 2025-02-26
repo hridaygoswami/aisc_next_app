@@ -270,7 +270,7 @@ export default function AboutPage() {
                     className="object-cover"
                   />
                 </div>
-                <p className="text-center">TBD</p>
+                <p className="text-center">To Be Announced</p>
               </div>
             </div>
 
@@ -288,7 +288,7 @@ export default function AboutPage() {
                         className="object-cover"
                       />
                     </div>
-                    <p className="text-center">TBD</p>
+                    <p className="text-center">To Be Announced</p>
                   </div>
                 ))}
               </div>
@@ -308,7 +308,7 @@ export default function AboutPage() {
                         className="object-cover"
                       />
                     </div>
-                    <p className="text-center">TBD</p>
+                    <p className="text-center">To Be Announced</p>
                   </div>
                 ))}
               </div>
@@ -328,7 +328,7 @@ export default function AboutPage() {
                         className="object-cover"
                       />
                     </div>
-                    <p className="text-center">TBD</p>
+                    <p className="text-center">To Be Announced</p>
                   </div>
                 ))}
               </div>
@@ -359,7 +359,7 @@ export default function AboutPage() {
                     className="object-cover"
                   />
                 </div>
-                <p className="text-xl font-light">TBD</p>
+                <p className="text-xl font-light">To Be Announced</p>
                 <p className="text-gray-600">Email</p>
               </div>
             ))}
@@ -382,7 +382,7 @@ export default function AboutPage() {
                     className="object-cover"
                   />
                 </div>
-                <p className="text-xl font-light">TBD</p>
+                <p className="text-xl font-light">To Be Announced</p>
                 <p className="text-gray-600">Email</p>
               </div>
             ))}
@@ -405,7 +405,7 @@ export default function AboutPage() {
                     className="object-cover"
                   />
                 </div>
-                <p className="text-xl font-light">TBD</p>
+                <p className="text-xl font-light">To Be Announced</p>
                 <p className="text-gray-600">Email</p>
               </div>
             ))}
